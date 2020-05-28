@@ -71,6 +71,8 @@ $ pkg update
 
 $ pkg upgrade
 
+$ pkg install git
+
 $ pkg install python
 
 $ git clone https://github.com/Anonymoush4cker7/Termux-Basic
