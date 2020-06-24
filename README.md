@@ -77,22 +77,31 @@ $ pkg install python
 
 $ git clone https://github.com/Anonymoush4cker7/Termux-Basic
 
+$ ls
+
 $ cd Termux-Basic
+
+$ ls
 
 $ python termux-basic.py
 
 Type "y" and press enter to install all packages.
 
-Website:- https://hackerterminal.simdif.com
+# Website
+https://hackerterminal.simdif.com
 
 
-Instagram:- https://instagram.com/hacker_terminal?igshid=151iih1dydpha
+# Instagram
+https://instagram.com/hacker_terminal?igshid=151iih1dydpha
 
 
-You tube :- https://www.youtube.com/channel/UCuiC74c98slmghQb6o8WgtA
+# You tube
+https://www.youtube.com/channel/UCuiC74c98slmghQb6o8WgtA
 
 
-Whatsapp group:- https://chat.whatsapp.com/HmHqkfijqsI71L2yvDOtz9
+# Whatsapp group
+https://chat.whatsapp.com/HmHqkfijqsI71L2yvDOtz9
 
 
-Telegram :- https://t.me/Hacker_terminal_channel
+# Telegram
+https://t.me/Hacker_terminal_channel
