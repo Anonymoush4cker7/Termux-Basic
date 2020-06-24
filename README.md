@@ -77,6 +77,8 @@ $ pkg install python
 
 $ git clone https://github.com/Anonymoush4cker7/Termux-Basic
 
+# Usage
+
 $ ls
 
 $ cd Termux-Basic
