@@ -1,9 +1,10 @@
 # Termux-Basic
 If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux. And This Tool is made for Termux beginner.And it's a very easy to use and install. This tool is coded in python.
 
-# Images In ReadMes
+![IMG_20200629_181142](https://user-images.githubusercontent.com/65849213/86006737-08631b80-ba34-11ea-9ee0-e65672a657ff.jpg)
 
-![IMG_20200624_201430](https://user-images.githubusercontent.com/65849213/85593544-c4070280-b664-11ea-9bf6-b3aa8125207b.jpg
+
+
 
 # Tool will install these packages
 [01] python
