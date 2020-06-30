@@ -71,29 +71,39 @@ If you are looking for basic packages of termux then this is right tool for you.
 
 This command access the storage in termux
 
-$ termux-setup-storage.
+termux-setup-storage
+
 # Installation
+```
 $ pkg update
-
+```
+```
 $ pkg upgrade
-
+```
+```
 $ pkg install git
-
+```
+```
 $ pkg install python
-
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/Termux-Basic
+```
 
 # Usage
-
+```
 $ ls
-
+```
+```
 $ cd Termux-Basic
-
+```
+```
 $ ls
-
+```
+```
 $ python termux-basic.py
-
-Type "y" and press enter to install all packages.
+```
+* Type "y" and press enter to install all packages.
 
 # Website
 https://hackerterminal.simdif.com
